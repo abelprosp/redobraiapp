@@ -873,13 +873,13 @@ a {
   bottom: var(--origin);
   width: calc(var(--r) * 2);
   height: calc(var(--r) * 2);
-  border: 1px solid rgba(255, 255, 255, 0.11);
+  border: 1px solid rgba(255, 255, 255, 0.15);
   border-radius: 50%;
   transform: translate(-50%, 50%);
 }
 
 .clients-orbit__arc--soft {
-  border-color: rgba(8, 176, 112, 0.16);
+  border-color: rgba(8, 176, 112, 0.22);
 }
 
 .clients-orbit__nodes {
